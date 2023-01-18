@@ -1,0 +1,50 @@
+body{
+    background-color: brown;
+
+}
+
+.title{
+    border: solid white;
+    text-align: center;
+}
+
+.description{
+    border: solid red;
+    padding: 12px;
+    margin: 22px;
+}
+
+img{
+    height: 320px;
+    margin-left: 42%;
+    border: radius 12px;
+
+}
+
+.ingredients{
+    text-align:center;
+
+}
+
+.items{
+    text-align: left;
+}
+
+.stepscontainer{
+    border: solid;
+    margin:12px;
+    background-image:url(https://thumbs.gfycat.com/LiquidWhisperedHyrax-max-1mb.gif);
+    color: white;
+}
+.steps{
+    text-align:left;
+    margin: 12px;
+
+}
+.method{
+    text-align: center;
+    margin: 12px;
+    padding: 12px;
+    
+
+}
